@@ -12,6 +12,8 @@ Developed Skills:
   - Implement stateful widget, adding interactivity to your app
   - Create an use Routes
   - Change the look of app's UI using themes
+  
+  [[https://github.com/peterMonteer/startup-name-generator/screenshots/Screenshot_1548538958.png|alt=screenshot]]
 
     
 
