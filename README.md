@@ -1,6 +1,8 @@
 Flutter App for Android and iOS
 
-App built following 'Write your first Flutter app' google codelab
+App built following 'Write Your First Flutter app' google codelab
+
+This app displays a list of random names for your Startup, allowing you to favorite names and see them in another screen.
 
 Developed Skills:
 
@@ -13,8 +15,8 @@ Developed Skills:
   - Create an use Routes
   - Change the look of app's UI using themes
   
-  
-  [[https://github.com/peterMonteer/startup-name-generator/blob/master/screenshots/Screenshot_1548538958.png]]
+    
+  ![alt text](https://github.com/peterMonteer/startup-name-generator/blob/master/screenshots/Screenshot_1548538958.png)
 
     
 
