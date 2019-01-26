@@ -13,7 +13,7 @@ Developed Skills:
   - Create an use Routes
   - Change the look of app's UI using themes
   
-  [[https://github.com/peterMonteer/startup-name-generator/screenshots/Screenshot_1548538958.png|alt=screenshot]]
+  [[https://github.com/peterMonteer/startup-name-generator/tree/master/screenshots/Screenshot_1548538958.png|alt=screenshot]]
 
     
 
