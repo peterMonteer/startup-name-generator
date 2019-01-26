@@ -8,7 +8,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Startup Name Generator',
-      home: RandomWords(),
+      theme: new ThemeData(
+        primaryColor: Colors.lightBlue,
+      ),
+      home: new RandomWords(),
       );
   }
 }
@@ -91,11 +94,17 @@ class RandomWordsState extends State<RandomWords>{
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Startup Name Generator'),
+        title: new Text(
+          'Startup Name Generator',
+          style: TextStyle(color: Colors.white),
+        ),
         actions: <Widget>[
           new IconButton(
               icon: const Icon(Icons.list),
-              onPressed: _pushSaved),
+              onPressed: _pushSaved,
+              color: Colors.white,
+            alignment: Alignment.center,
+          ),
         ],
       ),
       body: _buildSuggestions(),
