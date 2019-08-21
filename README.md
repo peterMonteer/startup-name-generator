@@ -15,4 +15,4 @@ Developed Skills:
   - Create an use Routes
   - Change the look of app's UI using themes
   
-  <img src="https://github.com/peterMonteer/startup-name-generator/blob/master/screenshots/Screenshot_1548538958.png" width="360" height="720">
+  <img src="https://github.com/peterMonteer/startup-name-generator/blob/master/screenshots/Screenshot_1548538958.png" width="360" height="640">
