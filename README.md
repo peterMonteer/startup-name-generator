@@ -11,7 +11,7 @@ This app displays a list of random names for your Startup, allowing you to favor
   - Created a lazily loaded, infinite scrolling list
   - Use Hot Reload for a faster development cycle
   - Implement stateful widget
-  - Create an use Routes
+  - Create and use Routes
   - Change the look of app's UI using themes
   
 **Screenshots**
